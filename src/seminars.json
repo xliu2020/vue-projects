@@ -1,0 +1,31 @@
+[
+    {
+        "id":1,
+        "title":"Intro To Javascript",
+        "location":"Room 101",
+        "start_time":"9:00AM",
+        "short_desc":"Learning Javascript at the beginning, including some important concepts such as variables, data types, methods"
+    },
+
+    {
+        "id":2,
+        "title":"Benefits of JavaScript Frameworks",
+        "location":"Room 102",
+        "start_time":"11:00AM",
+        "short_desc":"Learning the benefits of using some of the most popular framworks"
+    },
+    {
+        "id":3,
+        "title":"Tips of Advanced HTML & CSS",
+        "location":"Room 103",
+        "start_time":"4:00PM",
+        "short_desc":"Dive into HTML & CSS and discover their charms"
+    },
+    {
+        "id":4,
+        "title":"Build A Web App Starting From Zero",
+        "location":"Room 104",
+        "start_time":"5:00PM",
+        "short_desc":"Something that you can't miss to know when building Web Applications"
+    }
+]
